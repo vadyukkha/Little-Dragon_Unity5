@@ -53,11 +53,19 @@ _Требования к установке:_
 
 + ОС Windows
 
-### **Инструкция по установке**:
+### Инструкция по установке:
 
-+ Перейдите во владку Releases -> Little-Dragon;
-+ Скачайте и распакуйте архив Little-Dragon.zip;
+***1 способ***
+
++ Перейдите по ссылке https://disk.yandex.ru/d/K9N8CGFVUbUopg;
++ Скачайте и распакуйте архив Built_Little-Dragon.zip;
 + Запустите файл Little-Dragon.exe
+
+***2 способ***
+
++ git clone https://github.com/vadyukkha/Little-Dragon_Unity5.git
++ Перенесите папку Built_Little-Dragon в другую директорию
++ Запустите файл Little-Dragon.exe из папки Built_Little-Dragon
 
 ---
 
